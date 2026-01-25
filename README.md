@@ -27,8 +27,6 @@
 - ⚡ Fun fact: The Last Starfighter used a Cray X-MP supercomputer to render its groundbreaking space battle scenes.
 
 
-![GitHub contribution snake](https://raw.githubusercontent.com/grifjst/grifjst/output/github-contribution-grid-snake.svg)
-
 
 ---
 "Machines take me by surprise with great frequency." - Alan Turing
