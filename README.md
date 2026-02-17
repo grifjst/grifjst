@@ -9,13 +9,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,replit,raspberrypi,powershell,ps,kali,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,replit,raspberrypi,powershell,ps,kali,nodejs,autocad" />
   </a>
 </p>
 
 [![Nmap](https://img.shields.io/badge/-Nmap-6f42c1?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-007BFF?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![AutoCAD](https://img.shields.io/badge/-AutoCAD-000000?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
 
 
 
