@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=grifjst.grifjst" />
 
 
 
@@ -9,7 +8,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,replit,raspberrypi,powershell,ps,kali,nodejs,autocad" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,raspberrypi,powershell,ps,autocad," />
   </a>
 </p>
 
