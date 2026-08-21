@@ -25,20 +25,8 @@
 - 🔭 I’m currently working on Python projects and developing my programming skills.
 - ⚡ Fun fact: The Last Starfighter used a Cray X-MP supercomputer to render its groundbreaking space battle scenes.
 
-<br/>
-<br/>
-<!-- pacman-contribution-graph (abozanona) -->
-html
-<div align="center">
-  <img src="https://githubusercontent.com" alt="pacman contribution graph" width="100%">
-</div>
 
 
-
-
-
-
-<br/>
 
 
 ---
